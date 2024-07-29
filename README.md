@@ -1,3 +1,3 @@
-A Harmless Joke-Virus In Python.
+*A Harmless Joke-Virus In Python.*
 
 SAIL SCORPIDRON!
