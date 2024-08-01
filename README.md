@@ -4,6 +4,8 @@ please respect my code.
 
 THIS PROGRAM MAY TRIGGER YOUR ANTIVIRUS SO DISABLE IT OR ALLOW THE PROGRAM.
 
+Anyways You Can Close It By Using Task Manager.
+
 SAIL SCORPIDRON!
 
 ![Scorpidron](https://github.com/user-attachments/assets/042cf27d-0a9a-4a51-a8ae-9924b60978be)
