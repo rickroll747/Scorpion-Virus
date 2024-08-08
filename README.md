@@ -4,6 +4,8 @@ please respect my code.
 
 This Program May Trigger Your Antivirus So Disable It Or Allow The Program.
 
+And Also, This Program Is Harmless So You Can Execute It Anytime, Any PC.
+
 Anyways You Can Close It By Using Task Manager.
 
 SAIL SCORPIDRON!
